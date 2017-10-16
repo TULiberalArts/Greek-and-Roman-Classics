@@ -67,6 +67,7 @@ google_tag_manager: GTM-58ZL5B
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 events-feed: https://liberalarts.temple.edu/events/greek-and-roman-classics/csv
 news-feed: https://liberalarts.temple.edu/articles/greek-and-roman-classics/csv
+articles-feed: https://liberalarts.temple.edu/articles/greek-and-roman-classics/csv
 faculty-feed: https://liberalarts.temple.edu/profiles/greek-and-roman-classics/csv
 media-mentions-feed: https://liberalarts.temple.edu/media-mentions/greek-and-roman-classics/csv
 
