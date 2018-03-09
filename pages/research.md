@@ -27,7 +27,7 @@ Considered one of the foremost academic journals about the classics, Classical W
 
 Having such a publication housed at Temple highlights the strengths of the Classics Department, the accomplished faculty of which includes a member at the Institute for Advanced Study in Princeton, New Jersey (Assistant Professor Alex Gottesman) and a 2005 Cambridge fellow (Mitchell-Boyask). In the past decade, its research output also has evolved. Since 2008, five books authored by faculty members have been published or accepted for publication by Cambridge University Press, considered one of the most prestigious academic presses in the world.” View the original [article](http://news.temple.edu/news/2014-01-21/%E2%80%98classical-world%E2%80%99-journal-comes-temple). 
 
-**Classical World Editorial Office**
+**Classical World Editorial Office**<br/>
 Classical World at Temple University<br/>
 321 Anderson Hall<br/>
 1114 Polett Walk<br/>
@@ -68,19 +68,19 @@ The Johns Hopkins University Press, Journals Division<br/>
 PO Box 19966<br/>
 Baltimore, MD 21211-0966 (USA)<br/>
 
-**By Phone:**
+**By Phone:**<br/>
 Local: [(410) 516-6987](tel:4105166987)<br/>
 Toll-free: 1-800-548-1784 (United States & Canada)<br/>
 Fax: (410) 516-6968
 
-**Online:**
+**Online:**<br/>
 Email- [jrnlcirc@press.jhu.edu](mailto:jrnlcirc@press.jhu.edu)<br/>
 Website- [Classical World: A Quarterly Journal on Antiquity](https://www.press.jhu.edu/journals/classical-world-quarterly-journal-antiquity)
 
 ___
 
 ## Faculty Publications
-![Daniel Berman Book Cover]({{site.baseurl}}/media/resized BermanCover-198x300.jpg){:.img-right}
+![Daniel Berman Book Cover]({{site.baseurl}}/media/resized BermanCover-198x300.jpg){:.img-left}
 Daniel Berman<br/>
 [_Myth, Literature, and the Creation of the Topography of Thebes_](http://www.cambridge.org/us/academic/subjects/classical-studies/classical-literature/myth-literature-and-creation-topography-thebes)<br/>
 Cambridge University Press, 2015<br/>
@@ -90,7 +90,7 @@ Alex Gottesman<br/>
 [_Politics and the Street in Democratic Athens_](http://www.cambridge.org/us/academic/subjects/classical-studies/ancient-history/politics-and-street-democratic-athens)<br/>
 Cambridge University Press, 2014<br/>
 
-![Karen Hersch Book Cover]({{site.baseurl}}/media/resized Hersch cover 200x300.jpg){:.img-right}
+![Karen Hersch Book Cover]({{site.baseurl}}/media/resized Hersch cover 200x300.jpg){:.img-left}
 Karen Hersch<br/>
 [_The Roman Wedding: Ritual and Meaning in Antiquity_](http://www.cambridge.org/us/academic/subjects/classical-studies/ancient-history/roman-wedding-ritual-and-meaning-antiquity)<br/>
 Cambridge University Press, 2010<br/>
