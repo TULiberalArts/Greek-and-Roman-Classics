@@ -55,7 +55,7 @@ Temple’s chapter has a listserv that is used to announce events, new courses a
 - Your firstname
 - Your lastname
 
-### Officers and Members
+### Officers and Members- NEED UPDATED CONTENT
 2016-2017 Officers
 
 - Co-Presidents- Victoria Szafara and Connor O’Neill
@@ -64,5 +64,5 @@ Temple’s chapter has a listserv that is used to announce events, new courses a
 - Treasurer: Katlyn Yost
 - Faculty Advisor: Dr. Karen Hersch
 
-### News
+### News- NEED UPDATED CONTENT
 The Zeta Beta chapter will be traveling to the annual Eta Sigma Phi Convention in the Spring of 2017! This year it will take place from March 24-26 in Ann Arbor, Michigan.
