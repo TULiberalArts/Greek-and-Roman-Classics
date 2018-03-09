@@ -10,7 +10,7 @@ feature-body: >-
   Students in the Department of Greek and Roman Classics study 
   the cultures and languages of two major civilizations of the 
   ancient Mediterranean world.
-feature-image: media/Classics hero_bg.png
+feature-image: media/Classics hero 2_bg.png
 published: true    
 ---
 ## Explore Classical Languages, Literature and Civilizations 
