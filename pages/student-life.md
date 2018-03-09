@@ -8,7 +8,7 @@ published: true
 ---
 
 ## Classics Goes Beyond The Classroom
-Our students go abroad to both Greece and Rome, studying in the places that gave birth to some of the world’s greatest scientists, thinkers and artists. They can also spend a summer on an archaeological dig in the Mediterranean. The location and course offerings in Rome make it extremely attractive to anyone interested in the ancient world. Students interested in studying in Rome or on another international campus are encouraged to consult with departmental faculty early in their career at Temple. For more information see the [Study Abroad](http://studyabroad.temple.edu/) website.
+Our students go abroad to both Greece and Rome, studying in the places that gave birth to some of the world’s greatest scientists, thinkers and artists. They can also spend a summer on an archaeological dig in the Mediterranean. The location and course offerings in Rome make it extremely attractive to anyone interested in the ancient world. Students interested in studying in Rome or on another international campus are encouraged to consult with departmental faculty early in their career at Temple. For more information see the [Study Abroad](http://studyabroad.temple.edu/rome) website.
 
 ## Awards/Scholarships
 Every year the department gives out the Professor Nicholas Vlachos Memorial Award for excellence in classical languages and literatures to a senior Greek and Roman Classics major. Classics students are eligible for and often win other college awards in the humanities and for service.
