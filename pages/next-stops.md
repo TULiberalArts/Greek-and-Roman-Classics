@@ -7,6 +7,7 @@ description: >-
 published: true
 ---
 ## What do Classics Majors do after Graduation? 
+![Paestum Italy]({{site.baseurl}}/media/resized Classics-Dan-in-Paestum-Italy.jpg){:.img-right}
 What careers have alumni from your undergraduate degrees or programs of study gone on to pursue?
 
 Greek and Roman Classics offers the kind of broadly based, rigorous training that can help graduates succeed in a number of different careers. Classics majors have recently served as Secretary of State and Secretary of Defense, run the CIA, founded cable television networks and software companies and worked as senior correspondents for ABC News. Recent Temple Classics majors have gone on to law school, veterinary school, graduate school, business careers and teaching. One of them finished Penn law School and is now working for Senator Toomey. 
