@@ -16,9 +16,6 @@ Every year the department gives out the Professor Nicholas Vlachos Memorial Awar
 
 For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4589&field_awards_academics_class_value=All) page.
 
-## Research The Classics
-Our faculty and students share a special bond that transcends the classroom. Advanced majors have opportunities to assist faculty with research both on-campus and around the world.
-
 ## Classics is a Community
 Our Classics Club — open to all majors and minors — and our chapter of the national honor society for classics, Eta Sigma Phi, actively meet and hold events like lectures, movie nights and other social activities. Eta Sigma Phi members also attend a spring convention and have the opportunity to win scholarships to study in the Mediterranean.
 
