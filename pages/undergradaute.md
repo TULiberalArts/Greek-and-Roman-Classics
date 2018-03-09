@@ -45,6 +45,9 @@ This accelerated degree program (4+1) offers Classical Languages and Literature 
 
 Learn More about the [+1 Accelerated Degree](http://education.temple.edu/seced/accelerated-degree-program-dual-degree-41-classical-languages-and-literature-latin-ba)
 
+## Research The Classics
+Our faculty and students share a special bond that transcends the classroom. Advanced majors have opportunities to assist faculty with research both on-campus and around the world.
+
 ## Placement Exams in Latin and Ancient Greek
 Students entering Temple University often need to take exams for proper placement in language courses. In Classics these exams are by appointment. Please contact the following people:
 
