@@ -31,7 +31,7 @@ Both of our program options offer a sound liberal arts background — skills in 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title="Eta Sigma Phi" 
-    content="Eta Sigma Phi is the national honorary collegiate society for student of Latin and/orGreek." 
+    content="Eta Sigma Phi is the national honorary collegiate society for student of Latin and/or Greek." 
     image="" 
     button-link="/greek-and-roman-classics/student-life#eta-sigma-phi" 
     button-text="Learn More" %}
