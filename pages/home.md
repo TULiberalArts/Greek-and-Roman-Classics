@@ -5,7 +5,7 @@ layout: home3
 description: >-
 keywords: ''
 feature: true
-feature-title: >- NEED A TITLE
+feature-title: NEED A TITLE
 feature-body: >- 
   Students in the Department of Greek and Roman Classics study 
   the cultures and languages of two major civilizations of the 
