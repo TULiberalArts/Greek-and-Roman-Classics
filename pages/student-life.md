@@ -35,7 +35,7 @@ In order to be accepted into Eta Sigma Phi you must meet these requirements:
 - Have a least an overall 3.5 GPA
 - Be a Classics Major or Minor, or plan to become one soon
 - [Download an Application](https://liberalarts.temple.edu/sites/liberalarts/files/Eta-Sigma-Phi-Registration-Form-Fall-2015.pdf)
-- **It is possible to receive a waiver if one doesn’t quite meet the above requirements! Ask Dr. Karen Hersch for more details if this applies to you.
+- **It is possible to receive a waiver if one doesn’t quite meet the above requirements! Ask Dr. Karen Hersch for more details if this applies to you**.
 
 ### Benefits of Membership
 
