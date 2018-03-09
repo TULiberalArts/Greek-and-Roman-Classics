@@ -25,6 +25,7 @@ Both of our program options offer a sound liberal arts background — skills in 
  - [BA in Classics with a Concentration in Classical Languages and Literature](http://bulletin.temple.edu/undergraduate/liberal-arts/classics/ba-classics-concentration-classical-languages-literature/)
  - [Minor in Ancient Mediterranean Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/classics/minor-ancient-mediterranean-studies/)
  - [Minor in Classical Languages and Literature](http://bulletin.temple.edu/undergraduate/liberal-arts/classics/minor-classical-languages-literature/)
+ -  [4+1 Accelerated Degree: Classical Languages and Literature – Latin (B.A.) + Secondary Education (M.ED.)](http://education.temple.edu/seced/accelerated-degree-program-dual-degree-41-classical-languages-and-literature-latin-ba)
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
