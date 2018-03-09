@@ -81,22 +81,22 @@ ___
 
 ## Faculty Publications
 ![Daniel Berman Book Cover]({{site.baseurl}}/media/BermanCover-198x300.jpg){:.img-right}
-Daniel Berman
-[_Myth, Literature, and the Creation of the Topography of Thebes_](http://www.cambridge.org/us/academic/subjects/classical-studies/classical-literature/myth-literature-and-creation-topography-thebes)
-Cambridge University Press, 2015
+Daniel Berman<br/>
+[_Myth, Literature, and the Creation of the Topography of Thebes_](http://www.cambridge.org/us/academic/subjects/classical-studies/classical-literature/myth-literature-and-creation-topography-thebes)<br/>
+Cambridge University Press, 2015<br/>
 
 ![Alex Gottesman Book Cover]({{site.baseurl}}/media/GottesmanCover-204x300.jpg){:.img-right}
-Alex Gottesman
-[_Politics and the Street in Democratic Athens_](http://www.cambridge.org/us/academic/subjects/classical-studies/ancient-history/politics-and-street-democratic-athens)
-Cambridge University Press, 2014
+Alex Gottesman<br/>
+[_Politics and the Street in Democratic Athens_](http://www.cambridge.org/us/academic/subjects/classical-studies/ancient-history/politics-and-street-democratic-athens)<br/>
+Cambridge University Press, 2014<br/>
 
 ![Karen Hersch Book Cover]({{site.baseurl}}/media/Hersch cover 200x300.jpg){:.img-right}
-Karen Hersch
-[_The Roman Wedding: Ritual and Meaning in Antiquity_](http://www.cambridge.org/us/academic/subjects/classical-studies/ancient-history/roman-wedding-ritual-and-meaning-antiquity)
-Cambridge University Press, 2010
+Karen Hersch<br/>
+[_The Roman Wedding: Ritual and Meaning in Antiquity_](http://www.cambridge.org/us/academic/subjects/classical-studies/ancient-history/roman-wedding-ritual-and-meaning-antiquity)<br/>
+Cambridge University Press, 2010<br/>
 
 ![Robin Mitchell-Boyask Book Cover]({{site.baseurl}}/media/Boyask cover.jpg){:.img-right}
-Robin Mitchell-Boyask
-[_Plague and the Athenian Imagination: Drama, History, and the Cult of Asclepius_](http://www.cambridge.org/us/academic/subjects/classical-studies/classical-literature/plague-and-athenian-imagination-drama-history-and-cult-asclepius)
-Cambridge University Press, 2011.
-_Aeschylus: Eumenides_, Duckworth 2009.
+Robin Mitchell-Boyask<br/>
+[_Plague and the Athenian Imagination: Drama, History, and the Cult of Asclepius_](http://www.cambridge.org/us/academic/subjects/classical-studies/classical-literature/plague-and-athenian-imagination-drama-history-and-cult-asclepius)<br/>
+Cambridge University Press, 2011<br/>
+_Aeschylus: Eumenides_, Duckworth 2009<br/>
