@@ -52,6 +52,7 @@ Students entering Temple University often need to take exams for proper placemen
 - Ancient Greek: Robin Mitchell-Boyask, [(215) 204-3672](tel:2152043672), [robin@temple.edu](mailto:robin@temple.edu)
 
 ## Distinction in Major Requirements
+![Julius]({{site.baseurl}}/media/resized scultpture of Julius.jpg){:.img-right}
 Distinction in Major requires senior honors thesis and a minimum 3.5 GPA in Greek, Latin and Roman Classics courses.
 
 1) Planning should start early in the student's penultimate semester. The student, after consulting with the department advisor concerning his or her GPA, should discuss possible topics with a range of faculty. A student who is completing a major in Classical Language and Literatures must plan a topic that involves texts in Greek or Latin in some meaningful way. Any paper topic may build upon work from a previous course, but revisions to that work must be substantial. By the end of the 10th week of the term the student should have decided upon both the topic and the faculty mentor. The student and faculty mentor will then decide upon a second faculty reader. The student should plan for a thesis of roughly 18-20 double-spaced pages.
