@@ -31,6 +31,7 @@ sidebar-content: |
 ---
 
 ## An Entire Liberal Arts Education Rolled into a Single Major
+![Colosseum]({{site.baseurl}}/media/resized iStock_Colosseum-day-1024x682.jpg){:.img-right}
 Greek and Roman Classics is an interdisciplinary course of study involving languages, history, literature, philosophy, archaeology and art. The study of Greek and Roman Classics gives students a rigorous education in the nature of language, in the skills of close reading and textual analysis and in historical reasoning. If you are interested in mythology, ancient history or where the major institutions of Western culture began and why some disappeared for a long time, then you are interested in Classics. Our government was inspired by the Greeks yet was modeled on the Roman Republic, which also provided the basis for our laws. Our scientific language is Greek, but our grammar does not make much sense without Latin. Studying Classics at the College of Liberal Arts means discovering how different from us the Greeks and Romans really were. Join us and discover why.
 
 ## Programs of Study
@@ -39,6 +40,7 @@ Temple Classics offers majors in Classical Languages and Literatures and Classic
 Learn More about the [Major and Minor Concentrations in Classics](http://bulletin.temple.edu/undergraduate/liberal-arts/classics/#programstext).
 
 ## Dual Degree: 4+1 – Classical Languages and Literature – Latin (B.A.) + Secondary Education (M.ED.)
+![Open old book]({{site.baseurl}}/media/resized open old book.jpg){:.img-right}
 This accelerated degree program (4+1) offers Classical Languages and Literature undergraduate majors with a concentration in Latin in the College of Liberal Arts the exciting opportunity to complete their undergraduate degree AND a Master’s Degree in Secondary Education within five years. Apply in your sophomore year. This M.Ed. meets the Pennsylvania Department of Education’s program requirements for Teacher Certification in Latin PK-12 grades.
 
 Learn More about the [+1 Accelerated Degree](http://education.temple.edu/seced/accelerated-degree-program-dual-degree-41-classical-languages-and-literature-latin-ba)
