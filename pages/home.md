@@ -32,7 +32,7 @@ Both of our program options offer a sound liberal arts background — skills in 
     title="Eta Sigma Phi" 
     content="Eta Sigma Phi is the national honorary collegiate society for student of Latin and/orGreek." 
     image="" 
-    button-link="student-life" 
+    button-link="/greek-and-roman-classics/student-life#eta-sigma-phi" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
@@ -40,7 +40,7 @@ Both of our program options offer a sound liberal arts background — skills in 
       title="Study Abroad" 
       content="Greek and Roman Classics students are encouraged to study abroad particularly at Temple Rome." 
       image="" 
-      button-link="student-life" 
+      button-link="/greek-and-roman-classics/student-life#classics-goes-beyond-the-classroom" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
@@ -48,7 +48,7 @@ Both of our program options offer a sound liberal arts background — skills in 
         title="Careers" 
         content="Recent majors have gone on to law school, veterinary school, graduate school business careers and teaching." 
         image="" 
-        button-link="next-stops" 
+        button-link="/greek-and-roman-classics/next-stops#careers" 
         button-text="Learn More" %}
       </div>
 </div>
