@@ -85,7 +85,6 @@ ___
 Daniel Berman<br/>
 [_Myth, Literature, and the Creation of the Topography of Thebes_](http://www.cambridge.org/us/academic/subjects/classical-studies/classical-literature/myth-literature-and-creation-topography-thebes)<br/>
 Cambridge University Press, 2015<br/>
-
 ___
 
 ![Alex Gottesman Book Cover]({{site.baseurl}}/media/resized GottesmanCover-204x300.jpg){:.img-left}
