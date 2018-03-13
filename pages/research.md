@@ -81,10 +81,10 @@ ___
 
 ## Faculty Publications
 
-![Daniel Berman Book Cover]({{site.baseurl}}/media/resized BermanCover-198x300.jpg){:.img-left}
+<div>![Daniel Berman Book Cover]({{site.baseurl}}/media/resized BermanCover-198x300.jpg){:.img-left}
 Daniel Berman<br/>
 [_Myth, Literature, and the Creation of the Topography of Thebes_](http://www.cambridge.org/us/academic/subjects/classical-studies/classical-literature/myth-literature-and-creation-topography-thebes)<br/>
-Cambridge University Press, 2015<br/>
+Cambridge University Press, 2015<br/></div>
 
 
 ![Alex Gottesman Book Cover]({{site.baseurl}}/media/resized GottesmanCover-204x300.jpg){:.img-left}
