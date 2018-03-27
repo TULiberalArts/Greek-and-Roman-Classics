@@ -21,6 +21,8 @@ Both of our program options offer a sound liberal arts background — skills in 
 - Classical Civilizations 
 - Classical Languages and Literature 
 
+https://www.youtube.com/watch?v=EfbnDyxl6ks
+
 ## Academic offerings
  - [BA in Classics with a Concentration in Classical Civilizations](http://bulletin.temple.edu/undergraduate/liberal-arts/classics/ba-classics-concentration-classical-civilizations/)
  - [BA in Classics with a Concentration in Classical Languages and Literature](http://bulletin.temple.edu/undergraduate/liberal-arts/classics/ba-classics-concentration-classical-languages-literature/)
