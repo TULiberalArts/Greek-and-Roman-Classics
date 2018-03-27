@@ -21,8 +21,8 @@ Both of our program options offer a sound liberal arts background — skills in 
 - Classical Civilizations 
 - Classical Languages and Literature 
 
-<div align="center">
-<div class="videowrapper "><iframe width="300" height="315" src="https://www.youtube.com/embed/EfbnDyxl6ks" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></a></div>
+<div align="right">
+<div class="videowrapper "><iframe width="300" height="315" src="https://www.youtube.com/embed/EfbnDyxl6ks" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 </div> 
 
 ___
