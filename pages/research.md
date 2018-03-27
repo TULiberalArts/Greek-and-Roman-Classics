@@ -81,26 +81,29 @@ ___
 
 ## Faculty Publications
 
-<div>![Daniel Berman Book Cover]({{site.baseurl}}/media/resized BermanCover-198x300.jpg){:.img-left}
 Daniel Berman<br/>
+![Daniel Berman Book Cover]({{site.baseurl}}/media/resized BermanCover-198x300.jpg){:.img-left}
 [_Myth, Literature, and the Creation of the Topography of Thebes_](http://www.cambridge.org/us/academic/subjects/classical-studies/classical-literature/myth-literature-and-creation-topography-thebes)<br/>
-Cambridge University Press, 2015<br/></div>
+Cambridge University Press, 2015<br/>
 
+___
 
-![Alex Gottesman Book Cover]({{site.baseurl}}/media/resized GottesmanCover-204x300.jpg){:.img-left}
 Alex Gottesman<br/>
+![Alex Gottesman Book Cover]({{site.baseurl}}/media/resized GottesmanCover-204x300.jpg){:.img-left}
 [_Politics and the Street in Democratic Athens_](http://www.cambridge.org/us/academic/subjects/classical-studies/ancient-history/politics-and-street-democratic-athens)<br/>
 Cambridge University Press, 2014<br/>
 
+___
 
-![Karen Hersch Book Cover]({{site.baseurl}}/media/resized Hersch cover 200x300.jpg){:.img-left}
 Karen Hersch<br/>
+![Karen Hersch Book Cover]({{site.baseurl}}/media/resized Hersch cover 200x300.jpg){:.img-left}
 [_The Roman Wedding: Ritual and Meaning in Antiquity_](http://www.cambridge.org/us/academic/subjects/classical-studies/ancient-history/roman-wedding-ritual-and-meaning-antiquity)<br/>
 Cambridge University Press, 2010<br/>
 
+___
 
-![Robin Mitchell-Boyask Book Cover]({{site.baseurl}}/media/resized Boyask cover.jpg){:.img-left}
 Robin Mitchell-Boyask<br/>
+![Robin Mitchell-Boyask Book Cover]({{site.baseurl}}/media/resized Boyask cover.jpg){:.img-left}
 [_Plague and the Athenian Imagination: Drama, History, and the Cult of Asclepius_](http://www.cambridge.org/us/academic/subjects/classical-studies/classical-literature/plague-and-athenian-imagination-drama-history-and-cult-asclepius)<br/>
 Cambridge University Press, 2011<br/>
 _Aeschylus: Eumenides_, Duckworth 2009<br/>
