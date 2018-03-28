@@ -14,8 +14,8 @@ feature-image: media/Classics hero 2_bg.png
 published: true    
 
 ---
-<div align="right"><iframe width="350" height="350" src="https://www.youtube.com/embed/EfbnDyxl6ks" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 ## Explore Classical Languages, Literature and Civilizations 
+<div align="right"><iframe width="300" height="350" src="https://www.youtube.com/embed/EfbnDyxl6ks" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 The Department of Greek and Roman Classics is the vibrant home to a host of dedicated faculty members and engaging undergraduate majors.
 Both of our program options offer a sound liberal arts background — skills in critical thinking, reading and expressing oneself fluently and with cultural sophistication — that prepares students for success in any career. They select from two major concentrations based on their interests and goals:
 
