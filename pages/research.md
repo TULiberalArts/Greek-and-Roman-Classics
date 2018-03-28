@@ -81,7 +81,7 @@ ___
 {% if page.sidebar %}<div class="container"><div class="row">
   <div class="col m12 l8">{% endif %}
 
-    <div class="content">
+   <div class="content">
       {{ content }}
     </div>
 
