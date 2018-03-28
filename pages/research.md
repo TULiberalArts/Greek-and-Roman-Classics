@@ -78,7 +78,6 @@ Email- [jrnlcirc@press.jhu.edu](mailto:jrnlcirc@press.jhu.edu)<br/>
 Website- [Classical World: A Quarterly Journal on Antiquity](https://www.press.jhu.edu/journals/classical-world-quarterly-journal-antiquity)
 
 ___
-
 {% if page.sidebar %}<div class="container"><div class="row">
   <div class="col m12 l8">{% endif %}
 
