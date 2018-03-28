@@ -79,4 +79,3 @@ Website- [Classical World: A Quarterly Journal on Antiquity](https://www.press.j
 
 ___
 
-{% include research.html %}
