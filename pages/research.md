@@ -2,11 +2,10 @@
 title: Research
 permalink: "/research/"
 layout: research
-keywords: ''
+keywords: 'greek and roman, arts and humanities, temple university'
 description: >-
 published: true
 ---
-
 ## Classical World
 ![Classical World Cover]({{site.baseurl}}/media/resized Classical-World-Cover-1024x764.png){:.img-right}
 Classical World (ISSN 0009-8418) is the quarterly journal of The Classical Association of the Atlantic States, published on a seasonal schedule with Fall (September-November), Winter (December-February), Spring (March-May), and Summer (June-August) issues. Begun in 1907 as _The Classical Weekly_, this peer-reviewed journal publishes contributions on all aspects of Greek and Roman literature, history, and society; on the classical tradition; on the history of classical scholarship; and on the teaching of Latin, Greek, and classical civilization (see table of contents for the [archive of recent issues](http://caas-cw.org/wp/?page_id=259). The ideal reader of _Classical World_ is a scholarly teacher or a teaching scholar, and the ideal contributor has something to say to this reader. In addition to publishing original articles, the journal also features authoritative bibliographies of recent research on ancient authors and topics, regular surveys of textbooks and audio-visual materials, and extensive and timely reviews of scholarly books on the classics.
@@ -25,7 +24,7 @@ Susan Vogel
 
 Considered one of the foremost academic journals about the classics, Classical World is published by The Johns Hopkins University Press and is in its 107th year.
 
-Having such a publication housed at Temple highlights the strengths of the Classics Department, the accomplished faculty of which includes a member at the Institute for Advanced Study in Princeton, New Jersey (Assistant Professor Alex Gottesman) and a 2005 Cambridge fellow (Mitchell-Boyask). In the past decade, its research output also has evolved. Since 2008, five books authored by faculty members have been published or accepted for publication by Cambridge University Press, considered one of the most prestigious academic presses in the world.” View the original [article](http://news.temple.edu/news/2014-01-21/%E2%80%98classical-world%E2%80%99-journal-comes-temple). 
+Having such a publication housed at Temple highlights the strengths of the Classics Department, the accomplished faculty of which includes a member at the Institute for Advanced Study in Princeton, New Jersey (Assistant Professor Alex Gottesman) and a 2005 Cambridge fellow (Mitchell-Boyask). In the past decade, its research output also has evolved. Since 2008, five books authored by faculty members have been published or accepted for publication by Cambridge University Press, considered one of the most prestigious academic presses in the world.” View the original [article](http://news.temple.edu/news/2014-01-21/%E2%80%98classical-world%E2%80%99-journal-comes-temple).
 
 **Classical World Editorial Office**<br/>
 Classical World at Temple University<br/>
@@ -76,6 +75,3 @@ Fax: (410) 516-6968
 **Online:**<br/>
 Email- [jrnlcirc@press.jhu.edu](mailto:jrnlcirc@press.jhu.edu)<br/>
 Website- [Classical World: A Quarterly Journal on Antiquity](https://www.press.jhu.edu/journals/classical-world-quarterly-journal-antiquity)
-
-___
-
