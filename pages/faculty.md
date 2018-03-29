@@ -1,7 +1,7 @@
 ---
 title: Faculty
 permalink: /faculty/
-layout: tla_facualty
+layout: tla_faculty
 keywords: ''
 description: >-
 published: true
