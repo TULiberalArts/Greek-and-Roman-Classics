@@ -1,7 +1,7 @@
 ---
 title: Undergraduate
 permalink: /undergraduate/
-layout: page
+layout: tla_page
 keywords: ''
 description: >-
 published: true

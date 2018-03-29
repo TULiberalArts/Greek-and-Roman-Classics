@@ -1,26 +1,26 @@
 ---
 title: Home
 permalink: /
-layout: home3
+layout: tla_home
 description: >-
 keywords: ''
 feature: true
 feature-title: NEED A TITLE
-feature-body: >- 
-  Students in the Department of Greek and Roman Classics study 
-  the cultures and languages of two major civilizations of the 
+feature-body: >-
+  Students in the Department of Greek and Roman Classics study
+  the cultures and languages of two major civilizations of the
   ancient Mediterranean world.
 feature-image: media/Classics hero 2_bg.png
 published: true    
 
 ---
-## Explore Classical Languages, Literature and Civilizations 
+## Explore Classical Languages, Literature and Civilizations
 <div align="right"><iframe width="250" height="250" src="https://www.youtube.com/embed/EfbnDyxl6ks" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 The Department of Greek and Roman Classics is the vibrant home to a host of dedicated faculty members and engaging undergraduate majors.
 Both of our program options offer a sound liberal arts background — skills in critical thinking, reading and expressing oneself fluently and with cultural sophistication — that prepares students for success in any career. They select from two major concentrations based on their interests and goals:
 
-- Classical Civilizations 
-- Classical Languages and Literature 
+- Classical Civilizations
+- Classical Languages and Literature
 
 ___
 
@@ -32,27 +32,27 @@ ___
  -  [4+1 Accelerated Degree: Classical Languages and Literature – Latin (B.A.) + Secondary Education (M.ED.)](http://education.temple.edu/seced/accelerated-degree-program-dual-degree-41-classical-languages-and-literature-latin-ba)
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="Eta Sigma Phi" 
-    content="Eta Sigma Phi is the national honorary collegiate society for student of Latin and/or Greek." 
-    image="" 
-    button-link="/greek-and-roman-classics/student-life#eta-sigma-phi" 
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title="Eta Sigma Phi"
+    content="Eta Sigma Phi is the national honorary collegiate society for student of Latin and/or Greek."
+    image=""
+    button-link="/greek-and-roman-classics/student-life#eta-sigma-phi"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="Study Abroad" 
-      content="Greek and Roman Classics students are encouraged to study abroad particularly at Temple Rome." 
-      image="" 
-      button-link="/greek-and-roman-classics/student-life#classics-goes-beyond-the-classroom" 
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title="Study Abroad"
+      content="Greek and Roman Classics students are encouraged to study abroad particularly at Temple Rome."
+      image=""
+      button-link="/greek-and-roman-classics/student-life#classics-goes-beyond-the-classroom"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title="Careers" 
-        content="Recent majors have gone on to law school, veterinary school, graduate school business careers and teaching." 
-        image="" 
-        button-link="/greek-and-roman-classics/next-stops#careers" 
+      <div class="col m12 l4">{% include cards/card2-image.html
+        title="Careers"
+        content="Recent majors have gone on to law school, veterinary school, graduate school business careers and teaching."
+        image=""
+        button-link="/greek-and-roman-classics/next-stops#careers"
         button-text="Learn More" %}
       </div>
 </div>
