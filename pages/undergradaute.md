@@ -6,7 +6,7 @@ keywords: ''
 description: >-
 published: true
 sidebar: true
-file: undergraduate-sidebar.html
+sidebar-content: undergraduate-sidebar.html
 ---
 ## An Entire Liberal Arts Education Rolled into a Single Major
 ![Colosseum]({{site.baseurl}}/media/resized iStock_Colosseum-day-1024x682.jpg){:.img-right}
