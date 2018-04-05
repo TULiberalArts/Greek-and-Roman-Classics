@@ -6,8 +6,8 @@ keywords: ''
 description: >-
 published: true
 sidebar: true
+file: undergraduate-sidebar.html
 ---
-
 ## An Entire Liberal Arts Education Rolled into a Single Major
 ![Colosseum]({{site.baseurl}}/media/resized iStock_Colosseum-day-1024x682.jpg){:.img-right}
 Greek and Roman Classics is an interdisciplinary course of study involving languages, history, literature, philosophy, archaeology and art. The study of Greek and Roman Classics gives students a rigorous education in the nature of language, in the skills of close reading and textual analysis and in historical reasoning. If you are interested in mythology, ancient history or where the major institutions of Western culture began and why some disappeared for a long time, then you are interested in Classics. Our government was inspired by the Greeks yet was modeled on the Roman Republic, which also provided the basis for our laws. Our scientific language is Greek, but our grammar does not make much sense without Latin. Studying Classics at the College of Liberal Arts means discovering how different from us the Greeks and Romans really were. Join us and discover why.
