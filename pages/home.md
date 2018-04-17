@@ -19,7 +19,7 @@ The Department of Greek and Roman Classics is the vibrant home to a host of dedi
 Both of our program options offer a sound liberal arts background — skills in critical thinking, reading and expressing oneself fluently and with cultural sophistication — that prepares students for success in any career. They select from two major concentrations based on their interests and goals:
 - Classical Civilizations
 - Classical Languages and Literature
-<iframe width="400" height="450" src="https://www.youtube.com/embed/EfbnDyxl6ks" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="300" height="450" src="https://www.youtube.com/embed/EfbnDyxl6ks" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ___
 
