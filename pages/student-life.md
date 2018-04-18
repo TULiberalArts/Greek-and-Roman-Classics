@@ -23,6 +23,7 @@ Our Classics Club — open to all majors and minors — and our chapter of the n
 ![Eta Sigma Phi]({{site.baseurl}}/media/resized ESP-Photo-790x350.jpg){:.img-right}
 [Eta Sigma Phi](http://www.etasigmaphi.org/) is the national honorary collegiate society for students of Latin and/or Greek. Members are elected by local chapters which have been chartered by the society. The purposes of the Society, in the words of the constitution, are “to develop and promote interest in classical study among the students of colleges and universities; to promote closer fraternal relationship among students who are interested in classical study, including inter-campus relationship; to engage generally in an effort to stimulate interest in classical study, and in the history, art, and literature of ancient Greece and Rome.”
 - [Eta Sigma Phi Constitution](https://liberalarts.temple.edu/sites/liberalarts/files/Eta%20Sigma%20Phi%20Constitution.pdf)
+- [Subscribe to Eta Sigma Phi](mailto:classicalowls@temple.edu)
 
 The Temple chapter, Zeta Beta, is very active, with recent trips to museums, productions, and even expeditions to the previous 10 national meetings of Eta Sigma Phi. If you love Classics and the ancient world, you will certainly enjoy Eta Sigma Phi.
 
