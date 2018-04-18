@@ -1,7 +1,7 @@
 ---
 title: Next Stops
 permalink: /next-stops/
-layout: tla_page
+layout: page
 keywords: ''
 description: >-
 published: true

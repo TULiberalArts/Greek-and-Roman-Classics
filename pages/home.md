@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-layout: tla_home
+layout: home3
 description: >-
 keywords: ''
 feature: true

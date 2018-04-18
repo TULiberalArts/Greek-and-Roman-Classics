@@ -1,7 +1,7 @@
 ---
 title: Student Life
 permalink: /student-life/
-layout: tla_page
+layout: page
 keywords: ''
 description: >-
 published: true
