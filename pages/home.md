@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: home3
 description: >-
-keywords: ''
+keywords: 'classical, greek and roman claasics, academic offerings'
 feature: true
 feature-title: NEED A TITLE
 feature-body: >-
