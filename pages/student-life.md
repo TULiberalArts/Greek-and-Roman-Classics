@@ -2,7 +2,7 @@
 title: Student Life
 permalink: /student-life/
 layout: page
-keywords: ''
+keywords: 'study abroad, awrds and scholarships, Eta Sigma Phi, student social activities'
 description: >-
 published: true
 ---
