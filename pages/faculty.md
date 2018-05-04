@@ -2,8 +2,8 @@
 title: Faculty
 permalink: /faculty/
 layout: faculty2
-keywords: ''
+keywords: 'faculty, greek and roman, nationally recognized'
 description: >-
 published: true
 ---
-Text taken from anthropology because I need to test the template. Our nationally recognized faculty members specialize in areas that include anthropology of visual communication, archaeology of the eastern United States and tropical Americas, historical archaeology, human evolutionary biology, human genetic and physiological variation, language socialization, political economy of language, politics of cultural identity and difference, and sociocultural dynamics of globalization.
+Our faculty members are nationally recognized in their fields and continue to research and publish while teaching both introductory and advanced courses—all the while bringing their cutting edge research into the classroom.
