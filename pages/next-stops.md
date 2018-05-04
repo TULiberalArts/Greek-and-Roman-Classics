@@ -2,7 +2,7 @@
 title: Next Stops
 permalink: /next-stops/
 layout: page
-keywords: ''
+keywords: 'careers, alumni, apply, visit, transfer, classics majors'
 description: >-
 published: true
 ---
