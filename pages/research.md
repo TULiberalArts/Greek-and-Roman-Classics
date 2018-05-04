@@ -2,7 +2,7 @@
 title: Research
 permalink: "/research/"
 layout: research
-keywords: 'greek and roman, arts and humanities, temple university'
+keywords: 'greek and roman, classical world, research, faculty publications, subscribe'
 description: >-
 published: true
 ---
