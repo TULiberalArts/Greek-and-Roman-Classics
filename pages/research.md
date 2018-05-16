@@ -6,6 +6,8 @@ keywords: 'greek and roman, classical world, research, faculty publications, sub
 description: >-
 published: true
 ---
+At Temple University’s College of Liberal Arts, performing groundbreaking Greek and Roman classics research is as important as providing our students with great educations. The department publishes a quarterly journal called [Classical World](#classical-world) and encourages its faculty to explore publishing opportunities for its research.
+
 ## Classical World
 ![Classical World Cover]({{site.baseurl}}/media/resized Classical-World-Cover-1024x764.png){:.img-right}
 Classical World (ISSN 0009-8418) is the quarterly journal of The Classical Association of the Atlantic States, published on a seasonal schedule with Fall (September-November), Winter (December-February), Spring (March-May), and Summer (June-August) issues. Begun in 1907 as _The Classical Weekly_, this peer-reviewed journal publishes contributions on all aspects of Greek and Roman literature, history, and society; on the classical tradition; on the history of classical scholarship; and on the teaching of Latin, Greek, and classical civilization (see table of contents for the [archive of recent issues](http://caas-cw.org/wp/?page_id=259). The ideal reader of _Classical World_ is a scholarly teacher or a teaching scholar, and the ideal contributor has something to say to this reader. In addition to publishing original articles, the journal also features authoritative bibliographies of recent research on ancient authors and topics, regular surveys of textbooks and audio-visual materials, and extensive and timely reviews of scholarly books on the classics.
