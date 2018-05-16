@@ -6,12 +6,13 @@ keywords: 'study abroad, awrds and scholarships, Eta Sigma Phi, student social a
 description: >-
 published: true
 ---
+At the College of Liberal Arts, your pursuit of a Greek and Roman Classics degree goes beyond the classroom. The Department of Greek and Roman Classics encourages students to apply for [awards and scholarships](#awards-and-scholarships) and get involved through our [Classics Club](#classics-is-a-community) or [Eta Sigma Phi](#eta-sigma-phi), the honor society for Latin and Greek students. 
 
 ## Classics Goes Beyond The Classroom
 ![Colosseum Study Abroad]({{site.baseurl}}/media/resized Classics-Colosseum-Study-Abroad.jpg){:.img-right}
 Our students go abroad to both Greece and Rome, studying in the places that gave birth to some of the world’s greatest scientists, thinkers and artists. They can also spend a summer on an archaeological dig in the Mediterranean. The location and course offerings in Rome make it extremely attractive to anyone interested in the ancient world. Students interested in studying in Rome or on another international campus are encouraged to consult with departmental faculty early in their career at Temple. For more information see the [Study Abroad](http://studyabroad.temple.edu/rome) website.
 
-## Awards/Scholarships
+## Awards and Scholarships
 Every year the department gives out the Professor Nicholas Vlachos Memorial Award for excellence in classical languages and literatures to a senior Greek and Roman Classics major. Classics students are eligible for and often win other college awards in the humanities and for service.
 
 For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4589&field_awards_academics_class_value=All) page.
