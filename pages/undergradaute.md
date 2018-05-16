@@ -8,6 +8,8 @@ published: true
 sidebar: true
 sidebar-content: undergraduate-sidebar.html
 ---
+The College of Liberal Arts’ Greek and Roman classics [degree and minor](#ba-and-minor-in-classics) programs span the entire breadth of a liberal arts education. With [4+1](#dual-degree-4-1-classical-languages-and-literature-Latin-ba-secondary-education-med), you can even earn dual classic languages and literature bachelors degrees or a Latin undergraduate and secondary education graduate degree in just five years. Ready to [research the classics](#-research-the-classics) at Temple University? Take your [placement exams](#placement-exams-in-latin-and-ancient-greek) and learn about [distinction in major](#distinction-in-major-requirements) requirements.
+
 ## An Entire Liberal Arts Education Rolled into a Single Major
 ![Colosseum]({{site.baseurl}}/media/resized iStock_Colosseum-day-1024x682.jpg){:.img-right}
 Greek and Roman Classics is an interdisciplinary course of study involving languages, history, literature, philosophy, archaeology and art. The study of Greek and Roman Classics gives students a rigorous education in the nature of language, in the skills of close reading and textual analysis and in historical reasoning. If you are interested in mythology, ancient history or where the major institutions of Western culture began and why some disappeared for a long time, then you are interested in Classics. Our government was inspired by the Greeks yet was modeled on the Roman Republic, which also provided the basis for our laws. Our scientific language is Greek, but our grammar does not make much sense without Latin. Studying Classics at the College of Liberal Arts means discovering how different from us the Greeks and Romans really were. Join us and discover why.
