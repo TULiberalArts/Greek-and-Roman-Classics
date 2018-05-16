@@ -6,6 +6,8 @@ keywords: 'careers, alumni, apply, visit, transfer, classics majors'
 description: >-
 published: true
 ---
+Wondering what kind of career you can have as a graduate with a College of Liberal Arts Greek and Roman classics degree? Your options are many, and you can read recent [alumni news](#alumni-news) about our grads to see where some of them have landed. When you’re ready to [make your declaration](#make-your-declaration), come [visit us](#visit-us) on campus in North Philly. If you need more info, take a look at your [transfer](#thinking-of-transferring) options and our [application deadlines](#deadlines). We’ll be waiting for your application!
+
 ## What do Classics Majors do after Graduation?
 ![Paestum Italy]({{site.baseurl}}/media/resized Classics-Dan-in-Paestum-Italy.jpg){:.img-right}
 What careers have alumni from your undergraduate degrees or programs of study gone on to pursue?
@@ -18,7 +20,7 @@ The [Princeton Review](https://www.princetonreview.com/college-major-search?cip=
 
 For a list of important and distinguished people who have studied Classics as undergraduates and then gone on to careers in completely different areas, check out this article on the [Rogue Classicism](https://rogueclassicism.com/folks-you-didnt-know-maybe-had-classics-degrees/) website! Classics is an entire liberal arts education rolled into a single department and as a recent study has proved, "_[Liberal Arts Grads Win Long-Term](http://www.insidehighered.com/news/2014/01/22/see-how-liberal-arts-grads-really-fare-report-examines-long-term-data)_."
 
-## Career News: Recent Graduates -NEED UPDATED CONTENT IF THIS IS STAYING
+## Alumni News -NEED UPDATED CONTENT IF THIS IS STAYING
 **2014**
 - Nikki Love has enrolled in the [Post-Baccalaureate program in Classics](http://www.sas.upenn.edu/lps/postbacc/classical) at the University of Pennsylvania.
 - Lauren Faralli, a recent Temple Classics graduate, has just accepted a position as Middle School Latin Teacher at the Haverford School.
