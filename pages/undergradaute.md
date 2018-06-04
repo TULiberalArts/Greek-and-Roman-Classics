@@ -1,10 +1,13 @@
 ---
-title: Undergraduate
+# global predefined variables
+layout: tla_page
 permalink: /undergraduate/
-layout: page
-keywords: 'major, minor, accelerated degree, latin exam, distinction major'
-description: >-
 published: true
+# meta-data variables
+title: Undergraduate
+description: >-
+keywords: 'major, minor, accelerated degree, latin exam, distinction major'
+# custom variables
 sidebar: true
 sidebar-content: undergraduate-sidebar.html
 ---
