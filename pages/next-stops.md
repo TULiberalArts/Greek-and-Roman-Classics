@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
+  See what careers that a degree in Greek and Roman Classics from Temple University’s College of Liberal Arts can get you-
+  straight from our alumni! Visit us, look into application deadlines and transfer options, and apply.
 keywords: 'careers, alumni, apply, visit, transfer, classics majors'
 # custom variables
 sidebar: false
