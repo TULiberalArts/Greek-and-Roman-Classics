@@ -1,10 +1,14 @@
 ---
-title: Student Life
+# global predefined variables
+layout: tla_page
 permalink: /student-life/
-layout: page
-keywords: 'study abroad, awrds and scholarships, Eta Sigma Phi, student social activities'
-description: >-
 published: true
+# meta-data variables
+title: Student Life
+description: >-
+keywords: 'study abroad, awrds and scholarships, Eta Sigma Phi, student social activities'
+# custom variables
+sidebar: false
 ---
 At the College of Liberal Arts, your pursuit of a Greek and Roman Classics degree goes beyond the classroom. The Department of Greek and Roman Classics encourages students to apply for [awards and scholarships](#awards-and-scholarships) and get involved through our [Classics Club](#classics-is-a-community) or [Eta Sigma Phi](#eta-sigma-phi), the honor society for Latin and Greek students. 
 
