@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
+  Major or minor in Greek and Roman Classics at Temple University. Explore the 4+1 Accelerated Degree Program, research opportunity, 
+  and distinction in major requirements. Take the placement exam in Latin and Ancient Greek through the College of Liberal Arts.
 keywords: 'major, minor, accelerated degree, latin exam, distinction major'
 # custom variables
 sidebar: true
