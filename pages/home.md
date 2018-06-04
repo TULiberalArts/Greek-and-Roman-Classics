@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Home
 description: >-
+  Academic offerings in Greek and Roman Classics allows students to choose from two major concentrations: Classic Civilizations,
+  and Classical Languages and Literature. Learn more about your options in the College of Liberal Arts at Temple University.
 keywords: 'classical, greek and roman claasics, academic offerings'
 # custom variables
 sidebar: false
