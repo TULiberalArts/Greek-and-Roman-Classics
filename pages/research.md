@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Research
 description: >-
+  Publish your Greek and Roman Classics research in the Classical World quarterly journal produced by the
+  Greek and Roman Classics department of the College of Liberal Arts at Temple University.
 keywords: 'greek and roman, classical world, research, faculty publications, subscribe'
 # custom variables
 sidebar: false
