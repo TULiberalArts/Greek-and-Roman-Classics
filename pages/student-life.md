@@ -6,7 +6,9 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
-keywords: 'study abroad, awrds and scholarships, Eta Sigma Phi, student social activities'
+  Apply for awards and scholarships in the Greek and Roman Classics, join student social activities like 
+  the Classics Club or Eta Sigma Phi, and study abroad at Temple University’s College of Liberal Arts.
+keywords: 'study abroad, awards and scholarships, Eta Sigma Phi, student social activities'
 # custom variables
 sidebar: false
 ---
