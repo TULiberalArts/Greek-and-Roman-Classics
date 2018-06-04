@@ -6,6 +6,7 @@ published: true
 # meta-data variables
 title: Faculty
 description: >-
+  Meet our nationally recognized faculty in the Greek and Roman Classics department of the College of Liberal Arts at Temple University.
 keywords: 'faculty, greek and roman, nationally recognized'
 # custom variables
 sidebar: false
