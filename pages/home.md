@@ -1,18 +1,21 @@
 ---
-title: Home
+# global predefined variables
+layout: tla_home
 permalink: /
-layout: home3
+published: true
+# meta-data variables
+title: Home
 description: >-
 keywords: 'classical, greek and roman claasics, academic offerings'
+# custom variables
+sidebar: false
 feature: true
 feature-title: NEED A TITLE
+feature-image: media/Classics hero 2_bg.png
 feature-body: >-
   Students in the Department of Greek and Roman Classics study
   the cultures and languages of two major civilizations of the
-  ancient Mediterranean world.
-feature-image: media/Classics hero 2_bg.png
-published: true    
-
+  ancient Mediterranean world.   
 ---
 ## Explore Classical Languages, Literature and Civilizations
 The Department of Greek and Roman Classics is the vibrant home to a host of dedicated faculty members and engaging undergraduate majors.
