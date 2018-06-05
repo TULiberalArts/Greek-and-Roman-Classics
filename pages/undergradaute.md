@@ -6,12 +6,12 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
-  Major or minor in Greek and Roman Classics at Temple University. Explore the 4+1 Accelerated Degree Program, research opportunity, 
+  Major or minor in Greek and Roman Classics at Temple University. Explore the 4+1 Accelerated Degree Program, research opportunity,
   and distinction in major requirements. Take the placement exam in Latin and Ancient Greek through the College of Liberal Arts.
 keywords: 'major, minor, accelerated degree, latin exam, distinction major'
 # custom variables
 sidebar: true
-sidebar-content: undergraduate-sidebar.html
+sidebar_content: sidebars/undergraduate.html
 ---
 The College of Liberal Arts’ Greek and Roman Classics [degree and minor](#ba-and-minor-in-classics) programs span the entire breadth of a liberal arts education. With [4+1](#dual-degree-4-1-classical-languages-and-literature-Latin-ba-secondary-education-med), you can even earn dual classic languages and literature bachelors degrees or a Latin undergraduate and secondary education graduate degree in just five years. Ready to [research the classics](#-research-the-classics) at Temple University? Take your [placement exams](#placement-exams-in-latin-and-ancient-greek) and learn about [distinction in major](#distinction-in-major-requirements) requirements.
 
