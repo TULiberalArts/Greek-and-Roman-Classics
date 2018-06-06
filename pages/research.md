@@ -83,3 +83,5 @@ Fax: (410) 516-6968
 **Online:**<br/>
 Email- [jrnlcirc@press.jhu.edu](mailto:jrnlcirc@press.jhu.edu)<br/>
 Website- [Classical World: A Quarterly Journal on Antiquity](https://www.press.jhu.edu/journals/classical-world-quarterly-journal-antiquity)
+
+___
