@@ -47,7 +47,7 @@ Distinction in Major requires senior honors thesis and a minimum 3.5 GPA in Gree
 
 2) The student must register for an independent study, choosing, where appropriate, either Greek, Latin or GR Classics 4182. A student who is completing a major in Classical language and literatures must choose Greek or Latin 4182. A student who is completing a major in Classical Civilizations must register for GR Classics 4182. If there is more than one student completing an honors thesis during the semester then those students and their advisors (and any interested faculty) will meet regularly together to discuss their projects and research techniques in general.
 
-3) By the end of the first week of the studentâ€™s last semester he or she should have confirmed with the department advisor:
+3) By the end of the first week of the student's last semester, he or she should have confirmed with the department advisor:
 
 - Eligibility by GPA
 - The thesis topic
