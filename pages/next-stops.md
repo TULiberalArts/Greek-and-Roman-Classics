@@ -18,7 +18,7 @@ Wondering what kind of career you can have as a graduate with a College of Liber
 ![Paestum Italy]({{site.baseurl}}/media/resized Classics-Dan-in-Paestum-Italy.jpg){:.img-right}
 What careers have alumni from your undergraduate degrees or programs of study gone on to pursue?
 
-Greek and Roman Classics offers the kind of broadly based, rigorous training that can help graduates succeed in a number of different careers. Classics majors have recently served as Secretary of State and Secretary of Defense, run the CIA, founded cable television networks and software companies and worked as senior correspondents for ABC News. Recent Temple Classics majors have gone on to law school, veterinary school, graduate school, business careers and teaching. One of them finished Penn law School and is now working for Senator Toomey.
+Greek and Roman Classics offers the kind of broadly based, rigorous training that can help graduates succeed in a number of different careers. Classics majors have recently served as Secretary of State and Secretary of Defense, run the CIA, founded cable television networks and software companies and worked as senior correspondents for ABC News. Recent Temple Classics majors have gone on to law school, veterinary school, graduate school, business careers and teaching. One of them finished Penn Law School and is now working for Senator Toomey.
 
 By drawing upon the varied aspects of their undergraduate experience in Classics, students develop skills with language that help their written and oral expression, and acquire an ability to pick up the skills needed for a particular task – a breadth of understanding that goes beyond narrow specializing – and a curiosity that suggests the questions which critique basic assumptions.
 
@@ -61,7 +61,7 @@ For a complete list of our academic offerings visit [liberalarts.temple.edu](lib
 ## Visit Us
 The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit  opportunities we have throughout the year, including the Liberal Arts Preview Day.
 
-## Thinking of transferring
+## Thinking of Transferring
 The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.
 
 To learn more about transferring to Temple, please visit [temple.edu/transfer](temple.edu/transfer)
