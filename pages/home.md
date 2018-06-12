@@ -38,7 +38,7 @@ ___
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Eta Sigma Phi"
-    content="Eta Sigma Phi is the national honorary collegiate society for student of Latin and/or Greek."
+    content="Eta Sigma Phi is the national honorary collegiate society for students of Latin and/or Greek."
     image=""
     button-link="/greek-and-roman-classics/student-life#eta-sigma-phi"
     button-text="Learn More" %}
@@ -54,7 +54,7 @@ ___
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
         title="Careers"
-        content="Recent majors have gone on to law school, veterinary school, graduate school business careers and teaching."
+        content="Recent majors have gone on to law school, veterinary school, graduate school, business careers, and teaching."
         image=""
         button-link="/greek-and-roman-classics/next-stops#careers"
         button-text="Learn More" %}
