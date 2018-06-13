@@ -56,20 +56,8 @@ In order to be accepted into Eta Sigma Phi you must meet these requirements:
 - Eligibility for summer travel scholarships to Greece, Rome or southern Italy
 - Eligibility for a Latin teacher training scholarship
 
-Temple’s chapter has a listserv that is used to announce events, new courses and other pertinent information. To subscribe to the listserv, send an email message to listserv@listserv.temple.edu. In the body of the message, type:
+Temple’s chapter has a listserv that is used to announce events, new courses and other pertinent information. To subscribe to the listserv, send an email message to [listserv@listserv.temple.edu](mailto:listserv@listserv.temple.edu). In the body of the message, type:
 
-- Subscribe [etasigmaphi@listserv.temple.edu](etasigmaphi@listserv.temple.edu)
-- Your firstname
-- Your lastname
-
-### Officers and Members- NEED UPDATED CONTENT
-2016-2017 Officers
-
-- Co-Presidents- Victoria Szafara and Connor O’Neill
-- Vice President: Thomas Higgins
-- Secretary: Britt Duer
-- Treasurer: Katlyn Yost
-- Faculty Advisor: Dr. Karen Hersch
-
-### News- NEED UPDATED CONTENT
-The Zeta Beta chapter will be traveling to the annual Eta Sigma Phi Convention in the Spring of 2017! This year it will take place from March 24-26 in Ann Arbor, Michigan.
+- Subscribe [etasigmaphi@listserv.temple.edu](mailto:etasigmaphi@listserv.temple.edu)
+- Your first name
+- Your last name
