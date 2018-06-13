@@ -12,7 +12,7 @@ keywords: 'classical, greek and roman claasics, academic offerings'
 # custom variables
 sidebar: false
 feature: true
-feature-title: NEED A TITLE
+feature-title: Join the Greek and Roman Classics Department! We are an interdisciplinary course of study involving languages, history, literature, philosophy, archaeology and art.
 feature-image: media/Classics hero 2_bg.png
 feature-body: >-
   Students in the Department of Greek and Roman Classics study
