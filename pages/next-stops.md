@@ -48,7 +48,7 @@ For a list of important and distinguished people who have studied Classics as un
 - Lizzie Szylejko has landed a job teaching Latin at Central High School.
 - Libby Torreson continues her advanced degree work in Classics at the University of Minnesota.
 - Shannon Baxter has finished her nursing degree and is employed at Paoli Hospital in oncology and telemetry.
-- Nicole De Jessa is enrolled in the [Classics Post-Baccalaureate Program](http://www.sas.upenn.edu/lps/postbac/classics) at Penn
+- Nicole De Jessa is enrolled in the [Classics Post-Baccalaureate Program](http://www.sas.upenn.edu/lps/postbac/classics) at Penn.
 - Tom Goodman is studying at Temple Law School.
 
 ___
