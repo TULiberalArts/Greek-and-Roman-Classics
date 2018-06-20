@@ -5,6 +5,8 @@ title: Greek And Roman Classics
 baseurl: /greek-and-roman-classics
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/greek-and-roman-classics
 
 
 # Program Information
