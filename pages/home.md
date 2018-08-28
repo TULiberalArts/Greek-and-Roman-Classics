@@ -10,6 +10,7 @@ description: >-
   and Classical Languages and Literature. Learn more about your options in the College of Liberal Arts at Temple University.
 keywords: 'classical, greek and roman claasics, academic offerings'
 # custom variables
+promotion-table: true
 sidebar: false
 feature: true
 feature-title: Join the Greek and Roman Classics Department! We are an interdisciplinary course of study involving languages, history, literature, philosophy, archaeology and art.
