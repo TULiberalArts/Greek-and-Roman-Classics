@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: page
+layout: tla_page
 permalink: /next-stops/
 published: true
 # meta-data variables
@@ -26,7 +26,7 @@ The [Princeton Review](https://www.princetonreview.com/college-major-search?cip=
 
 For a list of important and distinguished people who have studied Classics as undergraduates and then gone on to careers in completely different areas, check out this article on the [Rogue Classicism](https://rogueclassicism.com/folks-you-didnt-know-maybe-had-classics-degrees/) website! Classics is an entire liberal arts education rolled into a single department and as a recent study has proved, "_[Liberal Arts Grads Win Long-Term](http://www.insidehighered.com/news/2014/01/22/see-how-liberal-arts-grads-really-fare-report-examines-long-term-data)_."
 
-## Alumni News 
+## Alumni News
 **2014**
 - Nikki Love has enrolled in the [Post-Baccalaureate program in Classics](http://www.sas.upenn.edu/lps/postbacc/classical) at the University of Pennsylvania.
 - Lauren Faralli, a recent Temple Classics graduate, has just accepted a position as Middle School Latin Teacher at the Haverford School.
