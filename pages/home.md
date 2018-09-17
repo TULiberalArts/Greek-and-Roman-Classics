@@ -15,7 +15,7 @@ sidebar: false
 feature: true
 feature-image: media/Classics hero 2_bg.png
 ---
-## Join the Greek and Roman Classics Department! We are an interdisciplinary course of study involving languages, history, literature, philosophy, archaeology and art.
+## Interdisciplinary course of study involving languages, history, literature, philosophy, archaeology and art.
 Students in the Department of Greek and Roman Classics study the cultures and languages of two major civilizations of the ancient Mediterranean world.
 
 ## Explore Classical Languages, Literature and Civilizations
