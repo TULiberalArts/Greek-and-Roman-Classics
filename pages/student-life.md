@@ -15,7 +15,7 @@ sidebar: false
 At the College of Liberal Arts, your pursuit of a Greek and Roman Classics degree goes beyond the classroom. The Department of Greek and Roman Classics encourages students to apply for [awards and scholarships](#awards-and-scholarships) and get involved through our [Classics Club](#classics-is-a-community) or [Eta Sigma Phi](#eta-sigma-phi), the honor society for Latin and Greek students. 
 
 ## Classics Goes Beyond The Classroom
-![Colosseum Study Abroad]({{site.baseurl}}/media/resized Classics-Colosseum-Study-Abroad.jpg){:.img-right}
+![Colosseum Study Abroad]({{site.baseurl}}/media/resized Classics-Colosseum-Study-Abroad.jpg){:.responsive-img .img-right}
 Our students go abroad to both Greece and Rome, studying in the places that gave birth to some of the world’s greatest scientists, thinkers and artists. They can also spend a summer on an archaeological dig in the Mediterranean. The location and course offerings in Rome make it extremely attractive to anyone interested in the ancient world. Students interested in studying in Rome or on another international campus are encouraged to consult with departmental faculty early in their career at Temple. For more information see the [Study Abroad](http://studyabroad.temple.edu/rome) website.
 
 ## Awards and Scholarships
@@ -27,7 +27,7 @@ For a complete list of departmental and college level awards and scholarships yo
 Our Classics Club — open to all majors and minors — and our chapter of the national honor society for classics, Eta Sigma Phi, actively meet and hold events like lectures, movie nights and other social activities. Eta Sigma Phi members also attend a spring convention and have the opportunity to win scholarships to study in the Mediterranean.
 
 ## Eta Sigma Phi
-![Eta Sigma Phi]({{site.baseurl}}/media/resized ESP-Photo-790x350.jpg){:.img-right}
+![Eta Sigma Phi]({{site.baseurl}}/media/resized ESP-Photo-790x350.jpg){:.responsive-img .img-right}
 [Eta Sigma Phi](http://www.etasigmaphi.org/) is the national honorary collegiate society for students of Latin and/or Greek. Members are elected by local chapters which have been chartered by the society. The purposes of the Society, in the words of the constitution, are “to develop and promote interest in classical study among the students of colleges and universities; to promote closer fraternal relationship among students who are interested in classical study, including inter-campus relationship; to engage generally in an effort to stimulate interest in classical study, and in the history, art, and literature of ancient Greece and Rome.”
 - [Eta Sigma Phi Constitution](https://liberalarts.temple.edu/sites/liberalarts/files/Eta%20Sigma%20Phi%20Constitution.pdf)
 - [Subscribe to Eta Sigma Phi](mailto:classicalowls@temple.edu)
@@ -45,7 +45,6 @@ In order to be accepted into Eta Sigma Phi you must meet these requirements:
 - **It is possible to receive a waiver if one doesn’t quite meet the above requirements! Ask Dr. Karen Hersch for more details if this applies to you**.
 
 ### Benefits of Membership
-
 - A membership card and certificate
 - Subscription to Nuntius, the biannual newsletter of the society
 - An annual national convention including a certamen and banquet
