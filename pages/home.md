@@ -15,15 +15,15 @@ sidebar: false
 feature: true
 feature-image: media/Classics hero 2_bg.png
 ---
-## Interdisciplinary course of study involving languages, history, literature, philosophy, archaeology and art.
-Students in the Department of Greek and Roman Classics study the cultures and languages of two major civilizations of the ancient Mediterranean world.
+## Interdisciplinary Course of Study
+Students in the Department of Greek and Roman Classics study the cultures and languages of two major civilizations of the ancient Mediterranean world. Our courses will immerse you in various aspects of languages, history, literature, philosophy, archaeology and art.
 
 ## Explore Classical Languages, Literature and Civilizations
 The Department of Greek and Roman Classics is the vibrant home to a host of dedicated faculty members and engaging undergraduate majors.
 Both of our program options offer a sound liberal arts background — skills in critical thinking, reading and expressing oneself fluently and with cultural sophistication — that prepares students for success in any career. They select from two major concentrations based on their interests and goals:
 - Classical Civilizations
 - Classical Languages and Literature
-<div align="center"><iframe width="800" height="400" src="https://www.youtube.com/embed/EfbnDyxl6ks" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div align="center" class="video-container"><iframe width="800" height="400" src="https://www.youtube.com/embed/EfbnDyxl6ks" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ___
 
