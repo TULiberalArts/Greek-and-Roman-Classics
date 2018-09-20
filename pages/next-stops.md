@@ -15,7 +15,7 @@ sidebar: false
 Wondering what kind of career you can have as a graduate with a College of Liberal Arts Greek and Roman classics degree? Your options are many, and you can read recent [alumni news](#alumni-news) about our grads to see where some of them have landed. When you’re ready to [make your declaration](#make-your-declaration), come [visit us](#visit-us) on campus in North Philly. If you need more info, take a look at your [transfer](#thinking-of-transferring) options and our [application deadlines](#deadlines). We’ll be waiting for your application!
 
 ## What Do Classics Majors Do after Graduation?
-![Paestum Italy]({{site.baseurl}}/media/resized Classics-Dan-in-Paestum-Italy.jpg){:.img-right}
+![Paestum Italy]({{site.baseurl}}/media/resized Classics-Dan-in-Paestum-Italy.jpg){:.responsive-img .img-right}
 What careers have alumni from your undergraduate degrees or programs of study gone on to pursue?
 
 Greek and Roman Classics offers the kind of broadly based, rigorous training that can help graduates succeed in a number of different careers. Classics majors have recently served as Secretary of State and Secretary of Defense, run the CIA, founded cable television networks and software companies and worked as senior correspondents for ABC News. Recent Temple Classics majors have gone on to law school, veterinary school, graduate school, business careers and teaching. One of them finished Penn Law School and is now working for Senator Toomey.
