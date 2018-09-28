@@ -10,7 +10,7 @@ description: >-
   straight from our alumni! Visit us, look into application deadlines and transfer options, and apply.
 keywords: 'careers, alumni, apply, visit, transfer, classics majors'
 # custom variables
-sidebar: false
+
 ---
 Wondering what kind of career you can have as a graduate with a College of Liberal Arts Greek and Roman classics degree? Your options are many, and you can read recent [alumni news](#alumni-news) about our grads to see where some of them have landed. When you’re ready to [make your declaration](#make-your-declaration), come [visit us](#visit-us) on campus in North Philly. If you need more info, take a look at your [transfer](#thinking-of-transferring) options and our [application deadlines](#deadlines). We’ll be waiting for your application!
 

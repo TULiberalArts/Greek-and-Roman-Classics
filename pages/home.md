@@ -11,7 +11,7 @@ description: >-
 keywords: 'classical, greek and roman claasics, academic offerings'
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-image: media/Classics hero 2_bg.png
 ---

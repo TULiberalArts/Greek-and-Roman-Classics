@@ -10,7 +10,7 @@ description: >-
   the Classics Club or Eta Sigma Phi, and study abroad at Temple University’s College of Liberal Arts.
 keywords: 'study abroad, awards and scholarships, Eta Sigma Phi, student social activities'
 # custom variables
-sidebar: false
+
 ---
 At the College of Liberal Arts, your pursuit of a Greek and Roman Classics degree goes beyond the classroom. The Department of Greek and Roman Classics encourages students to apply for [awards and scholarships](#awards-and-scholarships) and get involved through our [Classics Club](#classics-is-a-community) or [Eta Sigma Phi](#eta-sigma-phi), the honor society for Latin and Greek students. 
 
