@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: research
+layout: tla_page
 permalink: /research/
 published: true
 # meta-data variables
@@ -10,7 +10,7 @@ description: >-
   Greek and Roman Classics department of the College of Liberal Arts at Temple University.
 keywords: 'greek and roman, classical world, research, faculty publications, subscribe'
 # custom variables
-
+research: research.html
 ---
 At Temple University’s College of Liberal Arts, performing groundbreaking Greek and Roman classics research is as important as providing our students with great educations. The department publishes a quarterly journal called [Classical World](#classical-world) and encourages its faculty to explore publishing opportunities for its research.
 
