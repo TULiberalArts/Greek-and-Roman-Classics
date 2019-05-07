@@ -22,9 +22,6 @@ The Department of Greek and Roman Classics is the vibrant home to a host of dedi
 Both of our program options offer a sound liberal arts background — skills in critical thinking, reading and expressing oneself fluently and with cultural sophistication — that prepares students for success in any career. They select from two major concentrations based on their interests and goals:
 - Classical Civilizations
 - Classical Languages and Literature
-<div align="center" class="video-container"><iframe width="800" height="400" src="https://www.youtube.com/embed/EfbnDyxl6ks" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
-
-___
 
 ## Academic offerings
  - [BA in Classics with a Concentration in Classical Civilizations](http://bulletin.temple.edu/undergraduate/liberal-arts/classics/ba-classics-concentration-classical-civilizations/)
@@ -32,6 +29,12 @@ ___
  - [Minor in Ancient Mediterranean Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/classics/minor-ancient-mediterranean-studies/)
  - [Minor in Classical Languages and Literature](http://bulletin.temple.edu/undergraduate/liberal-arts/classics/minor-classical-languages-literature/)
  -  [4+1 Accelerated Degree: Classical Languages and Literature – Latin (B.A.) + Secondary Education (M.ED.)](http://education.temple.edu/seced/accelerated-degree-program-dual-degree-41-classical-languages-and-literature-latin-ba)
+ 
+___
+
+<div align="center" class="video-container"><iframe width="800" height="400" src="https://www.youtube.com/embed/EfbnDyxl6ks" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
