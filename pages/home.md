@@ -14,9 +14,6 @@ promotion-table: true
 feature: true
 feature-image: media/Classics hero 2_bg.png
 ---
-## Interdisciplinary Course of Study
-Students in the Department of Greek and Roman Classics study the cultures and languages of two major civilizations of the ancient Mediterranean world. Our courses will immerse you in various aspects of languages, history, literature, philosophy, archaeology and art.
-
 ## Explore Classical Languages, Literature and Civilizations
 The Department of Greek and Roman Classics is the vibrant home to a host of dedicated faculty members and engaging undergraduate majors.
 Both of our program options offer a sound liberal arts background — skills in critical thinking, reading and expressing oneself fluently and with cultural sophistication — that prepares students for success in any career. They select from two major concentrations based on their interests and goals:
@@ -24,8 +21,8 @@ Both of our program options offer a sound liberal arts background — skills in 
 - Classical Languages and Literature
 
 ## Academic Offerings
- - [BA in Classics with a Concentration in Classical Civilizations](http://bulletin.temple.edu/undergraduate/liberal-arts/classics/ba-classics-concentration-classical-civilizations/)
- - [BA in Classics with a Concentration in Classical Languages and Literature](http://bulletin.temple.edu/undergraduate/liberal-arts/classics/ba-classics-concentration-classical-languages-literature/)
+ - [BA in Classics with a Concentration in Classical Civilizations](https://www.temple.edu/academics/degree-programs/classics-major-la-clas-ba)
+ - [BA in Classics with a Concentration in Classical Languages and Literature](https://www.temple.edu/academics/degree-programs/classics-major-la-clas-ba)
  - [Minor in Ancient Mediterranean Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/classics/minor-ancient-mediterranean-studies/)
  - [Minor in Classical Languages and Literature](http://bulletin.temple.edu/undergraduate/liberal-arts/classics/minor-classical-languages-literature/)
  -  [4+1 Accelerated Degree: Classical Languages and Literature – Latin (B.A.) + Secondary Education (M.ED.)](http://education.temple.edu/seced/accelerated-degree-program-dual-degree-41-classical-languages-and-literature-latin-ba)
