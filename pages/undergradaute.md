@@ -16,12 +16,12 @@ The College of Liberal Arts’ Greek and Roman Classics [degree and minor](#ba-a
 
 ## An Entire Liberal Arts Education Rolled into a Single Major
 ![Colosseum]({{site.baseurl}}/media/resized iStock_Colosseum-day-1024x682.jpg){:.responsive-img .img-right}
-Greek and Roman Classics is an interdisciplinary course of study involving languages, history, literature, philosophy, archaeology and art. The study of Greek and Roman Classics gives students a rigorous education in the nature of language, in the skills of close reading and textual analysis and in historical reasoning. If you are interested in mythology, ancient history or where the major institutions of Western culture began and why some disappeared for a long time, then you are interested in Classics. Our government was inspired by the Greeks yet was modeled on the Roman Republic, which also provided the basis for our laws. Our scientific language is Greek, but our grammar does not make much sense without Latin. Studying Classics at the College of Liberal Arts means discovering how different from us the Greeks and Romans really were. Join us and discover why.
+The study of Greek and Roman Classics gives students a rigorous education in the nature of language, in the skills of close reading and textual analysis and in historical reasoning. If you are interested in mythology, ancient history or where the major institutions of Western culture began and why some disappeared for a long time, then you are interested in Classics. Our government was inspired by the Greeks yet was modeled on the Roman Republic, which also provided the basis for our laws. Our scientific language is Greek, but our grammar does not make much sense without Latin. Studying Classics at the College of Liberal Arts means discovering how different from us the Greeks and Romans really were. Join us and discover why.
 
 ## BA and Minor in Classics
-Temple Classics offers majors in Classical Languages and Literatures and Classical Civilizations, as well as minors in Classical Languages and Ancient Mediterranean Studies. Special programs allow undergraduates to major in Classics and earn secondary school teaching certification or to major in Classics and earn a Masters in Education in five years. The Department of Greek and Roman Classics offers courses in Ancient Greek and Latin, as well as a wide range of courses on the literature, culture and history of these ancient Mediterranean civilizations; these courses use English texts so that any interested student can participate.
+Temple Classics offers majors in Classical Languages and Literatures and Classical Civilizations, as well as minors in Classical Languages and Ancient Mediterranean Studies. The Department of Greek and Roman Classics offers courses in Ancient Greek and Latin, as well as a wide range of courses on the literature, culture and history of these ancient Mediterranean civilizations; these courses use English texts so that any interested student can participate.
 
-Learn More about the [Major and Minor Concentrations in Classics](http://bulletin.temple.edu/undergraduate/liberal-arts/classics/#programstext).
+Learn More about the [Major and Minor Concentrations in Classics](https://www.temple.edu/academics/degree-programs/classics-major-la-clas-ba)
 
 ## Dual Degree: 4+1 – Classical Languages and Literature – Latin (B.A.) + Secondary Education (M.ED.)
 ![Open old book]({{site.baseurl}}/media/resized open old book.jpg){:.responsive-img .img-right}
@@ -33,10 +33,9 @@ Learn More about the [+1 Accelerated Degree](http://education.temple.edu/seced/a
 Our faculty and students share a special bond that transcends the classroom. Advanced majors have opportunities to assist faculty with research both on-campus and around the world.
 
 ## Placement Exams in Latin and Ancient Greek
-Students entering Temple University often need to take exams for proper placement in language courses. In Classics these exams are by appointment. Please contact the following people:
+Students entering Temple University often need to take exams for proper placement in language courses. In Classics these exams are by appointment. 
 
-- Latin: Karen Klaiber Hersch, [(215) 204-5345](tel:2152045345), [khersch@temple.edu](mailto:khersch@temple.edu)
-- Ancient Greek: Robin Mitchell-Boyask, [(215) 204-3672](tel:2152043672), [robin@temple.edu](mailto:robin@temple.edu)
+Learn More about the [Placement Exams Requirements](https://www.temple.edu/academics/degree-programs/classics-major-la-clas-ba/cla-classics-ba-admissions).
 
 ## Distinction in Major Requirements
 ![Julius]({{site.baseurl}}/media/resized scultpture of Julius.jpg){:.responsive-img .img-right}
