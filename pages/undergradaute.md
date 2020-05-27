@@ -12,18 +12,18 @@ keywords: 'major, minor, accelerated degree, latin exam, distinction major'
 # custom variables
 sidebar: sidebars/undergraduate.html
 ---
-The College of Liberal Arts’ Greek and Roman Classics [degree and minor](#ba-and-minor-in-classics) programs span the entire breadth of a liberal arts education. With [4+1](#dual-degree-4-1-classical-languages-and-literature-Latin-ba-secondary-education-med), you can even earn dual classic languages and literature bachelors degrees or a Latin undergraduate and secondary education graduate degree in just five years. Ready to [research the classics](#-research-the-classics) at Temple University? Take your [placement exams](#placement-exams-in-latin-and-ancient-greek) and learn about [distinction in major](#distinction-in-major-requirements) requirements.
+The College of Liberal Arts’ Greek and Roman Classics [degree and minor](#bachelor-of-artsand-minor-in-classics) programs span the entire breadth of a liberal arts education. With [4+1](#dual-degree-4-1-classical-languages-and-literature-Latin-ba-secondary-education-med), you can even earn dual classic languages and literature bachelors degrees or a Latin undergraduate and secondary education graduate degree in just five years. Ready to [research the classics](#-research-the-classics) at Temple University? Take your [placement exams](#placement-exams-in-latin-and-ancient-greek) and learn about [distinction in major](#distinction-in-major-requirements) requirements.
 
 ## An Entire Liberal Arts Education Rolled into a Single Major
 ![Colosseum]({{site.baseurl}}/media/resized iStock_Colosseum-day-1024x682.jpg){:.responsive-img .img-right}
 The study of Greek and Roman Classics gives students a rigorous education in the nature of language, in the skills of close reading and textual analysis and in historical reasoning. If you are interested in mythology, ancient history or where the major institutions of Western culture began and why some disappeared for a long time, then you are interested in Classics. Our government was inspired by the Greeks yet was modeled on the Roman Republic, which also provided the basis for our laws. Our scientific language is Greek, but our grammar does not make much sense without Latin. Studying Classics at the College of Liberal Arts means discovering how different from us the Greeks and Romans really were. Join us and discover why.
 
-## BA and Minor in Classics
+## Bachelor of Arts and Minor in Classics
 Temple Classics offers majors in Classical Languages and Literatures and Classical Civilizations, as well as minors in Classical Languages and Ancient Mediterranean Studies. The Department of Greek and Roman Classics offers courses in Ancient Greek and Latin, as well as a wide range of courses on the literature, culture and history of these ancient Mediterranean civilizations; these courses use English texts so that any interested student can participate.
 
-Learn More about the [Major and Minor Concentrations in Classics](https://www.temple.edu/academics/degree-programs/classics-major-la-clas-ba)
+Learn More about the [BA and Minor Concentrations in Classics](https://www.temple.edu/academics/degree-programs/classics-major-la-clas-ba)
 
-## Dual Degree: 4+1 – Classical Languages and Literature – Latin (B.A.) + Secondary Education (M.ED.)
+## Dual Degree: 4+1 – Classical Languages and Literature – Latin (BA) + Secondary Education (M.ED.)
 ![Open old book]({{site.baseurl}}/media/resized open old book.jpg){:.responsive-img .img-right}
 This accelerated degree program (4+1) offers Classical Languages and Literature undergraduate majors with a concentration in Latin in the College of Liberal Arts the exciting opportunity to complete their undergraduate degree AND a Master’s Degree in Secondary Education within five years. Apply in your sophomore year. This M.Ed. meets the Pennsylvania Department of Education’s program requirements for Teacher Certification in Latin PK-12 grades.
 
