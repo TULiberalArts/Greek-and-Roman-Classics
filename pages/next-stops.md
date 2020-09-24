@@ -28,7 +28,7 @@ For a list of important and distinguished people who have studied Classics as un
 
 ## Alumni News
 **2014**
-- Nikki Love has enrolled in the [Post-Baccalaureate program in Classics](http://www.sas.upenn.edu/lps/postbacc/classical) at the University of Pennsylvania.
+- Nikki Love has enrolled in the [Post-Baccalaureate program in Classics](https://www.lps.upenn.edu/non-degree-programs/classical) at the University of Pennsylvania.
 - Lauren Faralli, a recent Temple Classics graduate, has just accepted a position as Middle School Latin Teacher at the Haverford School.
 - Colin Smith will be starting a PhD program in Philosophy at the University of Kentucky in the Fall.
 
