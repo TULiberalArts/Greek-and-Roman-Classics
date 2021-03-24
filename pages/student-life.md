@@ -35,9 +35,9 @@ Our Classics Club — open to all majors and minors — and our chapter of the n
 The Temple chapter, Zeta Beta, is very active, with recent trips to museums, productions, and even expeditions to the previous 10 national meetings of Eta Sigma Phi. If you love Classics and the ancient world, you will certainly enjoy Eta Sigma Phi.
 
 ### Question-Answering, Tutoring Service
-For any Temple student who has questions about Latin, Greek, ancient history, historical figures, ancient wars/battles for class, or anything else, we’re opening up anonymous questions! Send us any Classics-related question(s) you may have through this Google form. No names will be used– everything will be entirely anonymous! You can also ask questions through our Instagram account, @temple.classics; we have questions left open in the “Highlights” section on our account page.
+For any Temple student who has questions about Latin, Greek, ancient history, historical figures, ancient wars/battles for class, or anything else, we’re opening up anonymous questions! Send us any Classics-related question(s) you may have through this [Google form](https://docs.google.com/forms/d/e/1FAIpQLScGZgZh_P1wbHx8nIGS0-vR8DRMtzOT7B9ToCbSyLRAWDGIng/viewform). No names will be used– everything will be entirely anonymous! You can also ask questions through our Instagram account, @temple.classics; we have questions left open in the “Highlights” section on our account page.
 
-For Temple students interested in receiving help or tutoring in the ancient languages, please also fill out the same Google form!
+For Temple students interested in receiving help or tutoring in the ancient languages, please also fill out the same [Google form](https://docs.google.com/forms/d/e/1FAIpQLScGZgZh_P1wbHx8nIGS0-vR8DRMtzOT7B9ToCbSyLRAWDGIng/viewform)!
 
 ### Initiation
 In order to be accepted into Eta Sigma Phi you must meet these requirements:
