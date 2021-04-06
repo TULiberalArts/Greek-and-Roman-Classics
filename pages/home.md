@@ -29,7 +29,7 @@ Both of our program options offer a sound liberal arts background — skills in 
  
 ___
 
-<div align="center" class="video-container"><iframe width="800" height="400" src="https://www.youtube.com/embed/EfbnDyxl6ks" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/EfbnDyxl6ks" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ___
 
